@@ -1,13 +1,45 @@
 
-<div dir="auto">
-<a href="https://github.com/miranda-almeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miranda-almeida&amp;show_icons=true&amp;theme=synthwave&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miranda-almeida&amp;show_icons=true&amp;theme=synthwave&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-</a>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="gif-greetings"/>
+
+<h2 align="center">I'm Miranda 👋, a back-end developer 👨‍💻 🚀</h2>
+
+- 🌱 Estudando desenvolvimento web na Trybe
+
+<div align="center">
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miranda-almeida&theme=synthwave" alt="miranda-almeida" /></a> </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miranda-almeida&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miranda-almeida&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=miranda-almeida&theme=synthwave&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats" alt="Murilo-MRS" /><br/>
 </div>
 
-<h3 dir="auto"><a href="https://github.com/miranda-almeida"></a><a id="user-content-contato" class="anchor" href="#contato" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contato:</h3>
-<div dir="auto"><a href="https://github.com/miranda-almeida">
-</a><a href="https://www.linkedin.com/in/miranda-almeida" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>   
+<div align="center" style="display: inline-block"><br>
+<table><tr><td valign="top" width="49%"> 
+<h3>Front-end</h3>
+  <img align="center" alt="miranda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="miranda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="miranda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="miranda-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="miranda-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="miranda-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+</div>
+</td><td valign="top" width="49%">
+<h3>Testes</h3>
+<div align="center" style="display: inline-block"><br>
+  <img align="center" alt="miranda-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+  <img align="center" alt="miranda-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+</div>
+</td></tr></table>  
+</div>
+
+  ##
+  
+ <div align="center">
+ 
+ ![QUOTES](https://quotier.vercel.app/quote)
+ </div>
+ 
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/miranda-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
