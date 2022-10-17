@@ -30,13 +30,6 @@
 </div>
 </td></tr></table>  
 </div>
-
-  ##
-  
- <div align="center">
- 
- ![QUOTES](https://quotier.vercel.app/quote)
- </div>
  
   ##
  
