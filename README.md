@@ -11,11 +11,12 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miranda-almeida&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="380px" />
 </div>
 
-<div>
+<div display="flex" align="center">
 <img src="https://github-trophies.vercel.app/?username=miranda-almeida&theme=dracula&no-frame=true&no-bg=false&margin-w=4" align="center" />
 </div>
 
-## techs
+##
+<h2 align="center">techs</h2>
 <div display="flex" align="center">
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1" alt="javascript" />
@@ -34,7 +35,8 @@
 	<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="trello" />
 </div>
 
-## contact
+
+<h2 align="center">contact</h2>
 <div display="flex" align="center"> 
 	<img href="https://www.linkedin.com/in/miranda-almeida" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="trello" />
 </div>
