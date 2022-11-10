@@ -9,12 +9,10 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=miranda-almeida&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true" width="380px" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=miranda-almeida&theme=synthwave&hide_border=true" width="380px" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miranda-almeida&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="380px" />
-</div>
 
 <div display="flex" align="center">
 <img src="https://github-trophies.vercel.app/?username=miranda-almeida&theme=dracula&no-frame=true&no-bg=false&margin-w=4" align="center" width="780px"/>
 </div>
-
 
 <h2 align="center">techs</h2>
 <div display="flex" align="center">
