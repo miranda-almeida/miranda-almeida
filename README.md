@@ -1,16 +1,17 @@
 
 <img align="left" src="https://media.tenor.com/E8ihcPJQxpsAAAAi/coffee-skeleton.gif" alt="gif-greetings"/>
 
-<h2 align="right">Hi, I'm Miranda 👋, a back-end developer</h2>
+<h2 align="right" text-align="left">Hi, I'm Miranda 👋, a back-end developer</h2>
 
 > 🌱 currently learning web development at Trybe
 
-
-
-## stats
-![](https://github-readme-stats.vercel.app/api?username=miranda-almeida&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true)<br/>
+<div align="right">
+<a href="https://github-readme-stats.vercel.app/api?username=miranda-almeida&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true><a>
+</div>
+				 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miranda-almeida&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miranda-almeida&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 🏆
 ![](https://github-trophies.vercel.app/?username=miranda-almeida&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
