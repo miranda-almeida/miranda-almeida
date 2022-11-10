@@ -1,7 +1,7 @@
 
-<img src="https://media.tenor.com/E8ihcPJQxpsAAAAi/coffee-skeleton.gif" alt="gif-greetings"/>
+<img align="left" src="https://media.tenor.com/E8ihcPJQxpsAAAAi/coffee-skeleton.gif" alt="gif-greetings"/>
 
-<h2>Hi, I'm Miranda 👋, a back-end developer</h2>
+<h2 align="right">Hi, I'm Miranda 👋, a back-end developer</h2>
 
 > 🌱 currently learning web development at Trybe
 
