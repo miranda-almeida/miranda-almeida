@@ -12,10 +12,10 @@
 </div>
 
 <div display="flex" align="center">
-<img src="https://github-trophies.vercel.app/?username=miranda-almeida&theme=dracula&no-frame=true&no-bg=false&margin-w=4" align="center" />
+<img src="https://github-trophies.vercel.app/?username=miranda-almeida&theme=dracula&no-frame=true&no-bg=false&margin-w=4" align="center" width="820px"/>
 </div>
 
-##
+
 <h2 align="center">techs</h2>
 <div display="flex" align="center">
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
