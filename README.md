@@ -1,5 +1,5 @@
 
-<img align="left" src="https://media.tenor.com/E8ihcPJQxpsAAAAi/coffee-skeleton.gif" alt="gif-greetings"/>
+<img align="left" src="https://media.tenor.com/E8ihcPJQxpsAAAAi/coffee-skeleton.gif" alt="gif-greetings" width="430px"/>
 
 <h2 align="right" text-align="left">Hi, I'm Miranda 👋, a back-end developer</h2>
 
