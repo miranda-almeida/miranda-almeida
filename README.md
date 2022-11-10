@@ -12,7 +12,7 @@
 </div>
 
 <div display="flex" align="center">
-<img src="https://github-trophies.vercel.app/?username=miranda-almeida&theme=dracula&no-frame=true&no-bg=false&margin-w=4" align="center" width="820px"/>
+<img src="https://github-trophies.vercel.app/?username=miranda-almeida&theme=dracula&no-frame=true&no-bg=false&margin-w=4" align="center" width="800px"/>
 </div>
 
 
