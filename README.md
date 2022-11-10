@@ -38,5 +38,9 @@
 <div display="flex" align="center"> 
 	<img href="https://www.linkedin.com/in/miranda-almeida" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="trello" />
 </div>
-
+<br/>
+<div display="flex" align="center">
+<img src="http://images.uncyc.org/pt/e/eb/Cherubimon.gif" />
+</div>
+	
 [![](https://visitcount.itsvg.in/api?id=miranda-almeida&icon=4&color=10)](https://visitcount.itsvg.in)
