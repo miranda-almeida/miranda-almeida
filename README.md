@@ -43,4 +43,6 @@
 	<img src="http://images.uncyc.org/pt/e/eb/Cherubimon.gif" />
 </div>
 	
+<div display="flex" align="center">
 [![](https://visitcount.itsvg.in/api?id=miranda-almeida&icon=4&color=10)](https://visitcount.itsvg.in)
+</div>
