@@ -37,11 +37,11 @@
 <h2 align="center">contact</h2>
 	
 <div display="flex" align="center"> 
-	<img href="https://www.linkedin.com/in/miranda-almeida" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="trello" />
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/miranda-almeida" />
 </div>
 <br/>
 <div display="flex" align="center">
-	<img src="http://images.uncyc.org/pt/e/eb/Cherubimon.gif" href="https://www.linkedin.com/in/miranda-almeida/" />
+	<img src="http://images.uncyc.org/pt/e/eb/Cherubimon.gif" />
 </div>
 <br />
 <div display="flex" align="center">
