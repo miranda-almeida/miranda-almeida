@@ -41,7 +41,7 @@
 </div>
 <br/>
 <div display="flex" align="center">
-	<img src="http://images.uncyc.org/pt/e/eb/Cherubimon.gif" />
+	<img src="http://images.uncyc.org/pt/e/eb/Cherubimon.gif" href="https://www.linkedin.com/in/miranda-almeida/" />
 </div>
 <br />
 <div display="flex" align="center">
