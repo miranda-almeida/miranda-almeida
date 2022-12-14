@@ -35,9 +35,8 @@
 </div>
 
 <h2 align="center">contact</h2>
-	
 <div display="flex" align="center"> 
-	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/miranda-almeida" />
+	<a href="https://www.linkedin.com/in/miranda-almeida/" alt="linkedin page">contact me at linkedin</a>
 </div>
 <br/>
 <div display="flex" align="center">
