@@ -1,9 +1,9 @@
 
 <img align="left" src="https://media.tenor.com/E8ihcPJQxpsAAAAi/coffee-skeleton.gif" alt="gif-greetings" width="430px"/>
 
-<h3>Hi there, I'm Miranda 👋, a soon to be back-end developer</h3>
+<h3>Hi there, I'm Miranda 👋</h3>
 
-> 🌱 currently learning web development at Trybe
+> 🌱 currently just vibing
 
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=miranda-almeida&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true" width="380px" />
