@@ -5,7 +5,7 @@
 > 🌱 currently just vibing
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=miranda-almeida&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" width="380px" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=miranda-almeida&theme=synthwave&hide_border=true" width="380px" />
 </div>
 
 <br clear="left"/>
@@ -21,8 +21,3 @@
 	<img src="http://images.uncyc.org/pt/e/eb/Cherubimon.gif" />
 </div>
 
-<br />
-
-<div display="flex" align="center">
-<img src="https://visitcount.itsvg.in/api?id=miranda-almeida&icon=4&color=10" />
-</div>
